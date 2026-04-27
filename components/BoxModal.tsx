@@ -180,19 +180,25 @@ export default function BoxModal({
               style={{
                 borderRadius: "12px",
                 overflow: "hidden",
-                marginBottom: "20px",
+                marginBottom: "15px",
                 border: `1px solid ${box.color}22`,
                 boxShadow: `0 8px 32px rgba(0,0,0,0.4), 0 0 20px ${box.color}15`,
                 position: "relative",
-                aspectRatio: "16/10",
               }}
             >
               <Image
                 src={box.photo}
                 alt={box.title}
-                fill
-                style={{ objectFit: "cover" }}
-                sizes="(max-width: 520px) 100vw, 520px"
+                width={0}
+                height={0}
+                sizes="(max-width: 720px) 100vw, 520px"
+                style={{
+                  width: "100%",
+                  height: "auto",
+                  maxHeight: "520px",
+                  objectFit: "contain",
+                  display: "block",
+                }}
               />
               <div
                 style={{
