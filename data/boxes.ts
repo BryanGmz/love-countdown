@@ -79,9 +79,9 @@ export const boxes: BoxData[] = [
     photo: "/photos/photo-6.png",
     photoType: "ella",
     spotifyTrackId: "5z4O1H0vFY0Nh4ZMtfgapP", // Solo Con Verte - Banda MS
-    title: "Roja, como todo lo que sentí al verte",
+    title: "Roja, como todo lo que siento al verte",
     message:
-      "Esa blusa roja, esos labios rojos. Hay fotos que no necesitan explicación porque lo dicen todo solas. Esta es una de ellas. Verte crecer así, convertirte en la mujer que eres, es algo que me deja sin palabras cada vez.",
+      "Esa blusa roja, esos labios rojos y esa hermosa mirada. Hay fotos que no necesitan explicación porque lo dicen todo solas. Esta es una de ellas. Verte así, y saber que te convertiste en la mujer que eres hoy, es algo que me deja sin palabras cada vez. Te amo mucho mi niña ❤️",
     emoji: "🔥",
     color: "hsl(20, 90%, 62%)",
   },
