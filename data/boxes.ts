@@ -90,9 +90,9 @@ export const boxes: BoxData[] = [
     photo: "/photos/photo-7.png",
     photoType: "ella",
     spotifyTrackId: "6GTX6TGcHEWHoxHXPSVbJ2", // Hermosa Experiencia - Banda MS
-    title: "La mujer que llegaste a ser",
+    title: "La mujer que hoy eres",
     message:
-      "Ya tendrías unos 18 años en esta foto. Y cada vez que la veo me pasa lo mismo: me detengo. Porque eres una mujer hermosa, sí, pero no solo por fuera. Es todo lo que hay detrás de esa mirada. Todo eso es lo que me encanta de ti.",
+      "Quizá tendrías unos 18 años en esta foto. Como con todas las fotos, cada vez que las veo me pasa lo mismo: me detengo. Porque eres una mujer hermosa, sí, pero no solo por fuera. Es todo lo que hay detrás de esa mirada, tus sentimientos, tu forma de ser conmigo, tu cariño, tu amor. Todo eso y más es lo que me encanta de ti.\n\n Te amo mucho ❤️",
     emoji: "🌊",
     color: "hsl(190, 75%, 62%)",
   },
