@@ -100,10 +100,11 @@ export const boxes: BoxData[] = [
     id: 8,
     photo: "/photos/photo-8.png",
     photoType: "nosotros",
-    spotifyTrackId: "5VfkfKTTo5BRKqHwfENF0V", // Mírános Ahora - Calibre 50
-    title: "Esa mirada y ese suéter de cuadros",
+    // spotifyTrackId: "5VfkfKTTo5BRKqHwfENF0V", // Mírános Ahora - Calibre 50
+    spotifyTrackId: "2nejvFyJeTDtMRP2nUMt0J",
+    title: "Esa mirada y esa sonrisa encantadora",
     message:
-      "Hay cosas que me roban la atención sin avisar, y tu mirada es una de ellas. Te ves con ese suéter de cuadros y algo en mí se detiene. No sé cómo lo haces, pero cada foto tuya tiene algo que me atrapa. Creo que eso nunca va a cambiar.",
+      "Ya solo quedan 15 días para una fecha muy especial... \n\nHay cosas que me roban la atención sin avisar, tu mirada y tu sonrisa son unas de ellas. Cada que te veo algo en mí se detiene y te lo he dicho siempre. No sé cómo lo haces, pero cada foto y mirada tuya tiene algo que me atrapa. Eso nunca va a cambiar. \n\nEstoy muy agradecido por haberme elegido, quiero que sepas que te amo mucho ❤️",
     emoji: "🌟",
     color: "hsl(45, 85%, 63%)",
   },
