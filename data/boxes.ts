@@ -115,7 +115,7 @@ export const boxes: BoxData[] = [
     spotifyTrackId: "2318Aoqig6HS9YkHGlAm8T", // Te Regalo - Rels B
     title: "Tú, desde cualquier ángulo",
     message:
-      "No importa la foto, no importa el momento. Siempre hay algo en ti que va más allá de lo físico. Se nota la persona noble que eres. Se nota que hay algo bueno dentro de ti que simplemente no puedes esconder. Eso es lo que más me enamora.",
+      "1 de mayo, un día muy especial... ❤️ \n\nComo me pasa con todas tus fotos, y esta no es la excepción, me encata verte. No importa el momento, me llenas el corazón de emociones muy hermosas y me recuerda lo aforntunado que soy. \n\nTu belleza física es notable..., tienes una luz interior que simplemente no puedes esconder. Se nota a simple vista lo buena y noble que eres. Esa escencia tuya es una de las cosas que me enamoran de ti. \n\nTe amo muchísimo ❤️",
     emoji: "🤝",
     color: "hsl(350, 70%, 68%)",
   },
