@@ -126,9 +126,10 @@ export const boxes: BoxData[] = [
     photoType: "nosotros",
     spotifyTrackId: "1jBYN6IEVkExTE3R4O9trC", // Por Tu Amor - Alacranes Musicales
     title: "Lo que veo cuando te miro",
-    message:
-      "Belleza sí, pero sobre todo nobleza. Hay personas que tienen algo que no se compra ni se aprende, y tú lo tienes. Cada foto me lo recuerda. Eres de las personas más genuinas que he conocido en mi vida.",
-    emoji: "🎭",
+    message: "Eres bella mi amor..." + 
+    "\n\nEres un regalo, y cada día doy gracias por tenerte en mi vida. \n\nHay personas que tienen algo que no se compra ni se aprende, y tú lo tienes mi amor. Cada vez que te veo me lo recuerda. Eres de las personas más genuinas que he conocido en mi vida y te lo he dicho, estoy muy agradecido de que llegaras a mi vida y por haberme dado la oportunidad de amarte." + 
+    "\n\n Te amo muchísimo mi amor ❤️",
+    emoji: "🌻",
     color: "hsl(50, 90%, 60%)",
   },
   {
