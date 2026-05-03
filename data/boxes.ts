@@ -7,14 +7,14 @@ export type PhotoType =
   | null;
 
 export interface BoxData {
-  id: number
-  photo: string | null
-  photoType: PhotoType
-  spotifyTrackId: string | null
-  title: string
-  message: string
-  emoji: string
-  color: string
+  id: number;
+  photo: string | null;
+  photoType: PhotoType;
+  spotifyTrackId: string | null;
+  title: string;
+  message: string;
+  emoji: string;
+  color: string;
 }
 
 export const boxes: BoxData[] = [
@@ -126,9 +126,12 @@ export const boxes: BoxData[] = [
     photoType: "nosotros",
     spotifyTrackId: "1jBYN6IEVkExTE3R4O9trC", // Por Tu Amor - Alacranes Musicales
     title: "Lo que veo cuando te miro",
-    message: "Eres bella mi amor..." + 
-    "\n\nEres un regalo, y cada día doy gracias por tenerte en mi vida. \n\nHay personas que tienen algo que no se compra ni se aprende, y tú lo tienes mi amor. Cada vez que te veo me lo recuerda. Eres de las personas más genuinas que he conocido en mi vida y te lo he dicho, estoy muy agradecido de que llegaras a mi vida y por haberme dado la oportunidad de amarte." + 
-    "\n\n Te amo muchísimo mi amor ❤️",
+    message:
+      "Creo que ya te lo he dicho, pero esta es una de mis fotos favoritas tuyas...\n\n" +
+      "Esa blusa de flores, el pantalón formal y esa sonrisa tan tuya. Recuerdo perfectamente cuando me la enviaste después de aquella actividad en Los Altos. Como siempre me pasa con cada foto tuya, me detuve un momento solo para admirarte y para apreciar lo hermosa que eres mi amor.\n\n" +
+      "Hay algo especial en verte crecer, en poder ver cada etapa, de cada logro y de la persona increíble en la que te sigues convirtiendo. Para mí, eso es uno de los privilegios más grandes que tengo.\n\n" +
+      "Y sí, quiero seguir siendo tu compañero, caminar a tu lado, acompañarte en cada paso, apoyarte en los días buenos y en los no tan buenos, y recordarte siempre lo valiosa que eres mi amor.\n\n" +
+      "Te amo muchísimo mi amor ❤️",
     emoji: "🌻",
     color: "hsl(50, 90%, 60%)",
   },
@@ -136,11 +139,12 @@ export const boxes: BoxData[] = [
     id: 11,
     photo: "/photos/photo-11.jpg",
     photoType: "nosotros",
-    spotifyTrackId: "5242jcrB2d6j37aPqQwrX9", // Almohada - José José
-    title: "Tú en tu elemento",
+    spotifyTrackId: "0EjIBpgI4rbJjFnQ1kX8xd", // Jamas Eddie Santiago
+    title: "Tú en tu mundo",
     message:
-      "Esa blusa de flores, el pantalón formal, la capacitación. Me encanta verte así. Me encanta verte en tu mundo, seria y enfocada, porque me recuerda que eres una mujer que va con todo. Y que verla crecer es uno de los privilegios más grandes que tengo.",
-    emoji: "☁️",
+      "Creo que te lo he dicho, esta es una de mis fotos favoritas... \n\n" +
+      "Esa blusa de flores, el pantalón formal y esa sonrisa. Recuerdo que me la enviaste luego de una actividad en Los Altos, como me pasa con todas tus fotos cuando la ví me detuve para apreciar tu belleza. Verte crecer es uno de los privilegios más grandes que tengo y si, quiero ser tu compañero, acompañarte y ser tu apoyo. \n\nTe amo mucho mi amor ❤️",
+    emoji: "👩🏻‍🏫",
     color: "hsl(210, 55%, 70%)",
   },
   {
@@ -282,4 +286,4 @@ Feliz cumpleaños. Te quiero más de lo que las palabras alcanzan.`,
     emoji: "🎂",
     color: "hsl(45, 95%, 62%)",
   },
-]
+];
