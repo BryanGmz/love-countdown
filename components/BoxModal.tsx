@@ -15,9 +15,9 @@ const PHOTO_LABELS: Record<
   NonNullable<PhotoType>,
   { label: string; icon: string }
 > = {
-  "ella-pequeña": { label: "Mi pequeña", icon: "👧🏻" },
-  ella: { label: "Tú", icon: "✦" },
-  nosotros: { label: "Los dos", icon: "♡" },
+  "ella-pequeña": { label: "Mi pequeña", icon: "👶🏻" },
+  ella: { label: "Tú", icon: "🌟" },
+  nosotros: { label: "Los dos", icon: "❤️" },
   familia: { label: "Tu gente", icon: "🏡" },
   lugar: { label: "Nuestro lugar", icon: "🗺️" },
 };

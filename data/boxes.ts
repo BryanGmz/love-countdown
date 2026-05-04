@@ -127,11 +127,9 @@ export const boxes: BoxData[] = [
     spotifyTrackId: "1jBYN6IEVkExTE3R4O9trC", // Por Tu Amor - Alacranes Musicales
     title: "Lo que veo cuando te miro",
     message:
-      "Creo que ya te lo he dicho, pero esta es una de mis fotos favoritas tuyas...\n\n" +
-      "Esa blusa de flores, el pantalón formal y esa sonrisa tan tuya. Recuerdo perfectamente cuando me la enviaste después de aquella actividad en Los Altos. Como siempre me pasa con cada foto tuya, me detuve un momento solo para admirarte y para apreciar lo hermosa que eres mi amor.\n\n" +
-      "Hay algo especial en verte crecer, en poder ver cada etapa, de cada logro y de la persona increíble en la que te sigues convirtiendo. Para mí, eso es uno de los privilegios más grandes que tengo.\n\n" +
-      "Y sí, quiero seguir siendo tu compañero, caminar a tu lado, acompañarte en cada paso, apoyarte en los días buenos y en los no tan buenos, y recordarte siempre lo valiosa que eres mi amor.\n\n" +
-      "Te amo muchísimo mi amor ❤️",
+      "Eres bella mi amor..." +
+      "\n\nEres un regalo, y cada día doy gracias por tenerte en mi vida. \n\nHay personas que tienen algo que no se compra ni se aprende, y tú lo tienes mi amor. Cada vez que te veo me lo recuerda. Eres de las personas más genuinas que he conocido en mi vida y te lo he dicho, estoy muy agradecido de que llegaras a mi vida y por haberme dado la oportunidad de amarte." +
+      "\n\n Te amo muchísimo mi amor ❤️",
     emoji: "🌻",
     color: "hsl(50, 90%, 60%)",
   },
@@ -142,8 +140,11 @@ export const boxes: BoxData[] = [
     spotifyTrackId: "0EjIBpgI4rbJjFnQ1kX8xd", // Jamas Eddie Santiago
     title: "Tú en tu mundo",
     message:
-      "Creo que te lo he dicho, esta es una de mis fotos favoritas... \n\n" +
-      "Esa blusa de flores, el pantalón formal y esa sonrisa. Recuerdo que me la enviaste luego de una actividad en Los Altos, como me pasa con todas tus fotos cuando la ví me detuve para apreciar tu belleza. Verte crecer es uno de los privilegios más grandes que tengo y si, quiero ser tu compañero, acompañarte y ser tu apoyo. \n\nTe amo mucho mi amor ❤️",
+      "Creo que ya te lo he dicho, pero esta es una de mis fotos favoritas tuyas...\n\n" +
+      "Esa blusa de flores, el pantalón formal y esa sonrisa tan tuya. Recuerdo perfectamente cuando me la enviaste después de aquella actividad en Los Altos. Como siempre me pasa con cada foto tuya, me detuve un momento solo para admirarte y para apreciar lo hermosa que eres mi amor.\n\n" +
+      "Hay algo especial en verte crecer, en poder ver cada etapa, de cada logro y de la persona increíble en la que te sigues convirtiendo. Para mí, eso es uno de los privilegios más grandes que tengo.\n\n" +
+      "Y sí, quiero seguir siendo tu compañero, caminar a tu lado, acompañarte en cada paso, apoyarte en los días buenos y en los no tan buenos, y recordarte siempre lo valiosa que eres mi amor.\n\n" +
+      "Te amo muchísimo mi amor ❤️",
     emoji: "👩🏻‍🏫",
     color: "hsl(210, 55%, 70%)",
   },
@@ -151,10 +152,13 @@ export const boxes: BoxData[] = [
     id: 12,
     photo: "/photos/photo-12.jpg",
     photoType: "nosotros",
-    spotifyTrackId: "0aTMBEfPCCkKkneU6gLmDD", // El Triste - José José
+    spotifyTrackId: "5fF0fb0VFihGDHFshDLi2Z", // Que bendición Juan Luis Guerra
     title: "Hasta en los días nublados",
     message:
-      "El cielo gris de fondo y tú con esa sonrisa. Como si el clima no pudiera con lo que llevas dentro. Así eres. No importa lo que esté pasando afuera, hay algo en ti que siempre encuentra la manera de brillar. Eso me enamora todos los días.",
+      "Día 12… qué rápido pasa el tiempo mi amor ❤️. \n\nY hoy también es un día especial: 4 del mes, un mes más a tu lado. Solo pensarlo me hace profundamente feliz.\n\n" +
+      "Otra foto tuya, otra vez tú con esa sonrisa tan tuya… esa que me enamora siempre. Así eres tú: no importa lo que esté pasando alrededor, siempre hay algo en ti que encuentra la forma de brillar. Y eso… eso me enamora todos los días.\n\n" +
+      "Gracias por este tiempo, por cada momento, por cada risa y por todo lo que seguimos construyendo juntos. Me emociona pensar en todo lo que aún nos queda por vivir.\n\n" +
+      "Te amo muchísimo, y de verdad espero con muchas ansias seguir compartiendo la vida contigo, acompañándote en cada paso ❤️",
     emoji: "🍃",
     color: "hsl(150, 60%, 60%)",
   },
@@ -162,11 +166,14 @@ export const boxes: BoxData[] = [
     id: 13,
     photo: "/photos/photo-13.jpeg",
     photoType: "lugar",
-    spotifyTrackId: "0GTmb9brdEmNQpJN1keNAZ", // Sabor a Mí - Los Panchos
-    title: "Frente al espejo, y yo viéndote",
+    spotifyTrackId: "2tqkLfkNBp6wFdizAnBYgd", // Conitigo Los Panchos
+    title: "Frente al espejo...",
     message:
-      "Esa chumpa, ese espejo, y tú siendo tú. No sé cómo estemos en este momento en que leas esto. Pero lo que sí sé es que te amo. Que lo que siento por ti es real. Y que cada vez que te veo, sin importar cómo estemos, lo primero que pienso es: qué afortunado soy.",
-    emoji: "🗺️",
+      "Otra foto tuya… y no puedo evitar volver a ese momento en el que comenzaste a enviarme fotos de dónde estabas, de cómo ibas, de tu día. Desde el inicio eso me hizo sentir muy especial. Y aunque ahora se haya vuelto algo más cotidiano entre nosotros, créeme… sigo sintiendo exactamente la misma emoción cada vez que recibo una foto tuya, sobre todo cuando es inesperada. Sigo sintiéndome igual de especial.\n\n" +
+      "Te amo. Lo que siento por ti es real y cada día es más fuerte. Y cada vez que te veo, sin importar cómo estemos o cómo haya sido el día, lo primero que pasa por mi mente es: qué afortunado soy de tenerte a mi lado.\n\n" +
+      "Siempre hay algo en ti que me da calma, que me hace sentir que estoy en el lugar correcto. Que estoy en casa. Y eso, mi amor… eso no tiene precio.\n\n" +
+      "Te amo muchísimo mi amor ❤️",
+    emoji: "🪞",
     color: "hsl(155, 60%, 58%)",
   },
   {
