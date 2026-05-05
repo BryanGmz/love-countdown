@@ -155,8 +155,8 @@ export const boxes: BoxData[] = [
     spotifyTrackId: "5fF0fb0VFihGDHFshDLi2Z", // Que bendición Juan Luis Guerra
     title: "Hasta en los días nublados",
     message:
-      "Día 12… qué rápido pasa el tiempo mi amor ❤️. \n\nY hoy también es un día especial: 4 del mes, un mes más a tu lado. Solo pensarlo me hace profundamente feliz.\n\n" +
-      "Otra foto tuya, otra vez tú con esa sonrisa tan tuya… esa que me enamora siempre. Así eres tú: no importa lo que esté pasando alrededor, siempre hay algo en ti que encuentra la forma de brillar. Y eso… eso me enamora todos los días.\n\n" +
+      "Día 12... qué rápido pasa el tiempo mi amor ❤️. \n\nY hoy también es un día especial: 4 del mes, un mes más a tu lado. Solo pensarlo me hace profundamente feliz.\n\n" +
+      "Otra foto tuya, otra vez tú con esa sonrisa tan tuya... esa que me enamora siempre. Así eres tú: no importa lo que esté pasando alrededor, siempre hay algo en ti que encuentra la forma de brillar. Y eso... eso me enamora todos los días.\n\n" +
       "Gracias por este tiempo, por cada momento, por cada risa y por todo lo que seguimos construyendo juntos. Me emociona pensar en todo lo que aún nos queda por vivir.\n\n" +
       "Te amo muchísimo, y de verdad espero con muchas ansias seguir compartiendo la vida contigo, acompañándote en cada paso ❤️",
     emoji: "🍃",
@@ -169,9 +169,9 @@ export const boxes: BoxData[] = [
     spotifyTrackId: "2tqkLfkNBp6wFdizAnBYgd", // Conitigo Los Panchos
     title: "Frente al espejo...",
     message:
-      "Otra foto tuya… y no puedo evitar volver a ese momento en el que comenzaste a enviarme fotos de dónde estabas, de cómo ibas, de tu día. Desde el inicio eso me hizo sentir muy especial. Y aunque ahora se haya vuelto algo más cotidiano entre nosotros, créeme… sigo sintiendo exactamente la misma emoción cada vez que recibo una foto tuya, sobre todo cuando es inesperada. Sigo sintiéndome igual de especial.\n\n" +
+      "Otra foto tuya... y no puedo evitar volver a ese momento en el que comenzaste a enviarme fotos de dónde estabas, de cómo ibas, de tu día. Desde el inicio eso me hizo sentir muy especial. Y aunque ahora se haya vuelto algo más cotidiano entre nosotros, créeme... sigo sintiendo exactamente la misma emoción cada vez que recibo una foto tuya, sobre todo cuando es inesperada. Sigo sintiéndome igual de especial.\n\n" +
       "Te amo. Lo que siento por ti es real y cada día es más fuerte. Y cada vez que te veo, sin importar cómo estemos o cómo haya sido el día, lo primero que pasa por mi mente es: qué afortunado soy de tenerte a mi lado.\n\n" +
-      "Siempre hay algo en ti que me da calma, que me hace sentir que estoy en el lugar correcto. Que estoy en casa. Y eso, mi amor… eso no tiene precio.\n\n" +
+      "Siempre hay algo en ti que me da calma, que me hace sentir que estoy en el lugar correcto. Que estoy en casa. Y eso, mi amor... eso no tiene precio.\n\n" +
       "Te amo muchísimo mi amor ❤️",
     emoji: "🪞",
     color: "hsl(155, 60%, 58%)",
@@ -180,10 +180,16 @@ export const boxes: BoxData[] = [
     id: 14,
     photo: "/photos/photo-14.jpg",
     photoType: "nosotros",
-    spotifyTrackId: "4CYeId6mLAasOb6o0NCz4Y", // Yo Te Esperaré - Cuco
+    spotifyTrackId: "0xXhgLXfEHnWJHVgRvFvdn", // Creo en tí Reik
     title: "El día que te fuiste de viaje",
     message:
-      "Recuerdo ese día. La extrañé desde el momento en que salió. Pero luego me llamó, y algo en mí se acomodó. Eso es lo que me pasa con ella: su voz tiene el poder de hacer que todo se sienta menos pesado. Cómo amo a esa mujer.",
+      "Recuerdo ese día mi amor... te fuiste de viaje.\n\n" +
+      "Sabía que no nos veríamos ese fin de semana, pero había algo distinto... no esperaba extrañarte así, no era solo la distancia. Era saber que no estabas cerca, que no estábamos en el mismo lugar, y eso hizo que empezara a extrañarte más de lo normal.\n\n" +
+      "Aun así, hablar contigo durante el día hizo que todo se sintiera más ligero. Y fue justo ahí donde me di cuenta de algo: ya no eras alguien más... ya eras alguien esencial para mí.\n\n" +
+      "Recuerdo que te pedi una foto, casi insistiendo jejeje... y cuando me lo enviaste, no tienes idea de lo especial que me sentí. Es una foto tan natural, tan tuya... y eso es lo que más me encanta: tu belleza sin esfuerzo.\n\n" +
+      "Y luego, tu llamada en la noche... no la esperaba, pero fue una sorpresa hermosa. Aunque hablamos poco, fue suficiente para hacerme muy feliz. Escuchar tu voz, saber cómo estabas, cómo la habías pasado... esos pequeños momentos tuyos significan muchísimo para mí.\n\n" +
+      "Gracias por esos detalles mi amor.\n\n" +
+      "Te amo muchísimo ❤️",
     emoji: "🌺",
     color: "hsl(10, 75%, 65%)",
   },
@@ -191,10 +197,19 @@ export const boxes: BoxData[] = [
     id: 15,
     photo: "/photos/photo-15.jpg",
     photoType: "ella",
-    spotifyTrackId: "7wUt1v2ddVqPayC8EKDp5P", // Cómo Te Hago Entender - José José
+    spotifyTrackId: "7HW5tUjaKxBUamSi7nnzPt", // Eso y más - Joan Sebastian
     title: "El cierre de práctica y esa versión tuya",
     message:
-      "El pelo alisado, la playera de Spiderman, y tú radiando algo diferente ese día. Vi otra versión tuya que me encantó. Y me di cuenta de que siempre hay algo nuevo en ti que descubrir. Eso es lo que me pasa: cada día me enamoro de algo distinto.",
+      "Después de ese día en el que entendí lo importante que ya eras para mí... empezaron a venir momentos que solo lo confirmaban.\n\n" +
+      "Este día fue uno de esos.\n\n" +
+      "Tu cierre de prácticas. Recuerdo que me contabas que no sabías si plancharte el pelo... y yo, con esa emoción de verte, creo que insistí un poquito más de la cuenta. Quería ver otra versión tuya.\n\n" +
+      "Y cuando te vi... wow.\n\n" +
+      "El pelo alisado, la playera de Spiderman... y tú. Diferente, pero siendo completamente tú al mismo tiempo. Hay algo en esa foto que siempre me hace detenerme.\n\n" +
+      "Porque no importa cómo estés, cómo te arregles o cómo decidas verte... tu belleza no depende de nada de eso. Es tuya. Es natural. Y se nota.\n\n" +
+      "Sé que esta es una de tus fotos favoritas, que la tienes en tus redes... y aunque suene un poco egoísta, hay una parte de mí que quisiera guardar esa versión tuya solo para mí. Pero al mismo tiempo, saber que esa mujer increíble me ama... es suficiente para hacerme sentir afortunado.\n\n" +
+      "Te amo muchísimo.\n\n" +
+      "Y créeme... ese día tiene más historia de la que parece.\n\n" +
+      "Pero eso... lo sabrás luego... ❤️",
     emoji: "🌀",
     color: "hsl(170, 65%, 58%)",
   },
