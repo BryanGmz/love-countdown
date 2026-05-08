@@ -217,21 +217,43 @@ export const boxes: BoxData[] = [
     id: 16,
     photo: "/photos/photo-16.jpg",
     photoType: "familia",
-    spotifyTrackId: "TU_CARCEL_LOS_BUKIS", // Tu Cárcel - Los Bukis
-    title: "Ese suéter gris y esa sonrisa",
+    spotifyTrackId: "5z4O1H0vFY0Nh4ZMtfgapP", // Solo con verte - Banda MS
+    title: "Esa sonrisa tuya...",
     message:
-      "Siempre con esa sonrisa que te caracteriza. No importa lo que lleves puesto, no importa el momento. Hay algo en ti que siempre se ve bien. Pero sobre todo hay algo en ti que siempre se siente bien. Y eso no lo encuentro en ningún otro lado.",
-    emoji: "🏡",
-    color: "hsl(35, 75%, 63%)",
+      "Creo que todavía no nos conocíamos cuando te tomaste esta foto… o quizá aún no existía esa confianza de compartirnos fotos así.\n\n" +
+      "Pero cada vez que la veo pienso exactamente lo mismo: qué hermosa te veías.\n\n" +
+      "Ese suéter gris, esa sonrisa tan natural y esa forma tan tuya de verte bonita sin siquiera intentarlo. Hay muchas fotos tuyas que me encantan… pero esta definitivamente es una de mis favoritas.\n\n" +
+      "A veces me pongo a pensar en lo mucho que me habría gustado conocerte desde antes. Haber estado ahí, verte así en persona, acompañarte aunque fuera un rato.\n\n" +
+      "Como te lo he dicho, compartir contigo siempre es algo que me nace hacerlo porque me importas muchísimo, porque te quiero y porque sinceramente disfruto cualquier momento contigo, sin importar el plan.\n\n" +
+      "Y sí… no voy a negarlo. Hay una parte egoísta en mí que quisiera ser el único capaz de admirar esa belleza tuya. Como te he dicho antes, a veces quisiera poder guardarte solo para mí.\n\n" +
+      "Pero al mismo tiempo, también me da tranquilidad y felicidad saber que, entre todas las personas del mundo… eres tú quien decidió amarme.\n\n" +
+      "Quizá hoy esperabas la continuación de la historia jejeje… y sí, ya falta poco.\n\n" +
+      "Porque créeme, todavía me quedan muchas cosas bonitas por contarte, mi amor ❤️",
+    emoji: "🩶",
+    color: "hsl(36, 16%, 67%)",
   },
   {
     id: 17,
-    photo: "photo-17.jpeg",
+    photo: "/photos/photo-17.jpeg",
     photoType: "ella",
-    spotifyTrackId: "ME_VA_A_EXTRANIAR_ALEJANDRO", // Me Va a Extrañar - Alejandro Fernández
+    spotifyTrackId: "50WkRwFR0BAo6If7GtXnA8", // Disfruto - Carla Morrison
     title: "El vestido, el cierre, y ese día",
     message:
-      "Aún recuerdo ese día. El vestido, esa versión tuya que me dejó sin palabras. Hay momentos que uno guarda no en fotos sino en algún lugar más adentro. Ese es uno de ellos. La amo mucho. Más de lo que a veces sé decirle.",
+      "Como te lo he dicho antes… ese día significó mucho más de lo que quizá imaginabas.\n\n" +
+      "Fue una de las primeras veces que realmente me dejaste entrar a tu mundo. Y aunque tal vez no lo notes, eso siempre ha sido algo muy importante para mí.\n\n" +
+      "Me encanta conocerte en todos tus espacios: tus amigos, tus compañeros, tu familia, las personas que forman parte de tu vida. Porque conocer ese mundo tuyo me hace sentir más cerca de ti.\n\n" +
+      "Recuerdo que me contaste que no habías invitado a nadie de tu familia a la presentación de tu cierre… y entre bromas salió que podrías invitarme. No te imaginas lo feliz que me puse por un momento. Después me dijiste que te daba pena y que mejor no… y lo entendí.\n\n" +
+      "Luego quedamos en que solo pasaría por ti. Pero mientras esperaba, pero no me imaginé que me llamarías para preguntarme si quería acompañarte a almorzar.\n\n" +
+      "Y no tienes idea de lo feliz que me hizo eso.\n\n" +
+      "Recuerdo que incluso estaba nervioso. No sabía quiénes estarían ahí: amigos, compañeros, conocidos… pero todo eso se me olvidó cuando saliste a encontrarme.\n\n" +
+      "De verdad… cuando te vi, me sorprendiste otra vez.\n\n" +
+      "Ese vestido, el pelo liso, tu sonrisa… te veías increíblemente hermosa. Y en ese momento solo pude pensar en lo afortunado que soy de que una mujer así me ame.\n\n" +
+      "Todavía recuerdo ese abrazo y ese beso cuando llegaste conmigo. Puede parecer algo pequeño, pero para mí fue un momento muy especial.\n\n" +
+      "Y después… me presentaste a tus amigas/compañeras, me dejaste entrar un poquito más en tu vida. Y aunque quizá no lo notes, esos gestos significan muchísimo para mí.\n\n" +
+      "No lo voy a negar jajaja… también me hubiera encantado verte exponer.\n\n" +
+      "Gracias por compartir conmigo tus momentos, tus espacios y poco a poco tu mundo.\n\n" +
+      "Quiero seguir siendo eso para ti: alguien que te acompañe, te apoye y esté a tu lado en cada etapa.\n\n" +
+      "Te amo muchísimo mi amor ❤️",
     emoji: "📖",
     color: "hsl(220, 60%, 68%)",
   },
@@ -239,18 +261,25 @@ export const boxes: BoxData[] = [
     id: 18,
     photo: "/photos/photo-18.jpeg",
     photoType: "nosotros",
-    spotifyTrackId: "BESAME_MUCHO_TITO_RODRIGUEZ", // Bésame Mucho - Tito Rodríguez
-    title: "Nuestras llamadas de las noches",
+    spotifyTrackId: "2JBs412fpVUuzIaIp3CyIs", // Bendiata tu luz - Maná
+    title: "Nuestras llamadas de las noches...",
     message:
-      "Haciéndose la dormida, y yo sonriendo solo de verla. Nuestras llamadas nocturnas son una de las cosas más bonitas que hemos construido. No sé cómo estemos cuando leas esto, pero eso que creamos juntos, esa rutina, ese espacio, es algo que no se construye fácil con nadie. Lo atesoro con todo.",
-    emoji: "🕊️",
-    color: "hsl(180, 50%, 65%)",
+      "Creo que una de las cosas más bonitas que hemos creado son nuestras llamadas por las noches.\n\n" +
+      "Esta foto siempre me da mucha ternura. Ahí estabas, haciéndote la dormida mientras hablábamos… y yo simplemente sonriendo al verte.\n\n" +
+      "Creo que no te das cuenta de lo feliz que me hacían —y me siguen haciendo— nuestras llamadas nocturnas. Poco a poco se volvieron una rutina, pero una de esas rutinas bonitas que se sienten como hogar.\n\n" +
+      "Hablar contigo al final del día, escucharte, quedarnos en silencio a veces, reírnos por tonterías o simplemente saber que estas ahí… son de las cosas más especiales que hemos construido juntos.\n\n" +
+      "Y sinceramente, no creo que algo así se construya fácil con cualquiera.\n\n" +
+      "Quizá te lo he dicho poco, pero para mí significan mucho, y los guardo con muchísimo cariño.\n\n" +
+      "Porque contigo incluso lo más simple termina sintiéndose especial.\n\n" +
+      "Te amo muchísimo ❤️",
+    emoji: "💤",
+    color: "hsl(216, 83%, 54%)",
   },
   {
     id: 19,
     photo: "/photos/photo-19.jpeg",
     photoType: "nosotros",
-    spotifyTrackId: "NOCHE_DE_BODAS_LOS_BUKIS", // Noche de Bodas - Los Bukis
+    spotifyTrackId: "NOCHE_DE_BODAS_LOS_BUKIS", // Te regalo carla morrison
     title: "El día de la llanta y tú",
     message:
       "Íbamos a Panajachel, nuestro primer viaje, y se averió la llanta. Ese día me sentí mal. Pero estabas tú. Y tú me entendiste sin que yo tuviera que explicar mucho. Tu compañía ese día me hizo sentir que todo estaba bien. Eso es lo que eres para mí: el lugar donde todo se siente menos pesado.",

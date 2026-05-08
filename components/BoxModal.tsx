@@ -18,7 +18,7 @@ const PHOTO_LABELS: Record<
   "ella-pequeña": { label: "Mi pequeña", icon: "👶🏻" },
   ella: { label: "Tú", icon: "🌟" },
   nosotros: { label: "Los dos", icon: "❤️" },
-  familia: { label: "Tu gente", icon: "🏡" },
+  familia: { label: "Tú", icon: "🏡" },
   lugar: { label: "Nuestro lugar", icon: "🗺️" },
 };
 
