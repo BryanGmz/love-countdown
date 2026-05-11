@@ -279,21 +279,60 @@ export const boxes: BoxData[] = [
     id: 19,
     photo: "/photos/photo-19.jpeg",
     photoType: "nosotros",
-    spotifyTrackId: "NOCHE_DE_BODAS_LOS_BUKIS", // Te regalo carla morrison
-    title: "El día de la llanta y tú",
+    spotifyTrackId: "6m2zdtNuSoZSjN4FtNR1sJ", // Te Regalo - Carla Morrison
+    title: "Nuestro primer viaje juntos...",
     message:
-      "Íbamos a Panajachel, nuestro primer viaje, y se averió la llanta. Ese día me sentí mal. Pero estabas tú. Y tú me entendiste sin que yo tuviera que explicar mucho. Tu compañía ese día me hizo sentir que todo estaba bien. Eso es lo que eres para mí: el lugar donde todo se siente menos pesado.",
+      "Esta foto siempre me recuerda algo muy importante de nosotros.\n\n" +
+      "El intento de nuestro primer viaje.\n\n" +
+      "Recuerdo perfectamente ese día. Habíamos planeado ir a Panajachel, desayunar juntos y pasar tiempo los dos. Yo fui por ti, y sinceramente estaba emocionado.\n\n" +
+      "Y claro… tú te veías hermosísima. Esa chaqueta, tu sonrisa, tu forma de verte bonita sin esfuerzo como siempre.\n\n" +
+      "Pero en el camino empecé a escuchar un ruido extraño en el carro. Recuerdo que te lo comenté intentando no preocuparme demasiado… aunque por dentro sí me estaba poniendo nervioso.\n\n" +
+      "Había algo en mí que sabía que ese ruido no era normal.\n\n" +
+      "Recuerdo que incluso hablamos sobre si seguir o regresar. Los dos estábamos indecisos, pero al final decidimos volver. Y aunque era algo que no podía controlar, la verdad es que me sentí mal.\n\n" +
+      "Me sentí triste porque ya teníamos planes, porque quería que todo saliera bien y porque no sabía qué hacer.\n\n" +
+      "Pero entonces pasó algo que nunca voy a olvidar.\n\n" +
+      "Tú.\n\n" +
+      "No me culpaste, no te molestaste, no hiciste que me sintiera peor. Todo lo contrario. Me abrazaste, me comprendiste y estuviste conmigo.\n\n" +
+      "Y créeme… ese abrazo me reconfortó muchísimo.\n\n" +
+      "Luego de pasar por el taller, fuimos a desayunar a Metroplaza, pasamos al supermercado, estuvimos esperando mientras revisaban el carro… y aunque el viaje no salió como lo planeamos, hubo algo que sí salió perfecto: tu compañía ❤️.\n\n" +
+      "Aún tengo la foto de la pequeña llanta que le colocaron jajaja.\n\n" +
+      "Pero lo que más guardo de ese día no es el problema del carro. Es cómo me hiciste sentir.\n\n" +
+      "Porque en un momento donde yo me sentía frustrado y triste, tú hiciste que todo se sintiera menos pesado.\n\n" +
+      "Y ahí entendí algo más sobre ti: eres paz incluso en los días que no salen bien.\n\n" +
+      "Gracias por tu paciencia, por tu cariño y por la forma tan bonita en la que me has amado.\n\n" +
+      "Te amo muchísimo mi amor ❤️",
     emoji: "💎",
     color: "hsl(195, 70%, 62%)",
   },
   {
     id: 20,
-    photo: "/photos/photo-20.jpg",
+    photo: "/photos/photo-20.jpeg",
     photoType: "lugar",
-    spotifyTrackId: "SI_ME_DEJAS_JULIO_IGLESIAS", // Si Me Dejas No Vale - Julio Iglesias
-    title: "Ese collar y esa sonrisa",
+    spotifyTrackId: "1p4rYrxjVkj6v2eMzRhLfA", // Arrulló de Estrellas - Zoé
+    title: "Nuestros sábados...",
     message:
-      "Verte con ese collar que te regalé me llena de algo que no sé nombrar bien. Orgullo, amor, gratitud. Todo junto. Cada momento contigo lo atesoro con todo mi corazón. Eres lo mejor que me ha pasado. Quiero que lo sepas y que nunca lo dudes.",
+      "Esta vez sí salió bien... (nuestro viaje a Panajachel jajaja ❤️).\n\n" +
+      "Y sinceramente… este día se quedó guardado en mí de una forma muy especial.\n\n" +
+      "Recuerdo que ya te había contado que mi mamá quería que estuvieras presente en la celebración de mi cumpleaños. Quería que almorzaras con nosotros porque poco a poco también te has vuelto alguien importante para mi familia… y sobre todo para mí (lo han notado).\n\n" +
+      "Y no sabes lo feliz que me hizo que estuvieras ahí.\n\n" +
+      "Hay algo muy bonito en esta foto. Tal vez tú dices que no es de tus favoritas… pero para mí sí lo es.\n\n" +
+      "Porque guarda muchas coasas, además de que te ves exactamente como más me gusta verte: natural, tranquila, sonriendo sin esfuerzo. Y una vez más confirmo algo que siempre te digo: tu belleza no depende de nada más, porque simplemente nace de ti.\n\n" +
+      "Y mientras veo esta foto también pienso en todo lo que significaron nuestros sábados.\n\n" +
+      "Nuestros desayunos, las salidas improvisadas, los planes que a veces salían y a veces no, terminar casi siempre en mi casa jajaja… todo eso se volvió una parte muy bonita de mi vida.\n\n" +
+      "Quizá los planes nunca fueron extravagantes, pero contigo nunca hizo falta algo grande para que un día se sintiera especial.\n\n" +
+      "Porque he entendí algo contigo: ningún plan es malo si estoy a tu lado.\n\n" +
+      "El simple hecho de coincidir contigo, compartir tiempo contigo y sentirme acompañado por ti… ya hacía que todo valiera la pena.\n\n" +
+      "Y nunca voy a olvidar cuando me dijiste que querías seguir pasando esos sábados conmigo, que querías acompañarme porque sabías que ya no nos veríamos tanto.\n\n" +
+      "Tal vez no sabes cuánto significó eso para mí.\n\n" +
+      "Ese día me sentí profundamente amado.\n\n" +
+      "Aunque también, siendo sincero, con el tiempo empecé a tener miedo de que esos días terminaran algún día. Y creo que ambos sabíamos que las cosas cambiarían.\n\n" +
+      "Pero aun así… gracias.\n\n" +
+      "Gracias por regalarme tantos recuerdos bonitos.\n\n" +
+      "Gracias por tu tiempo, tu cariño, tu paciencia y tu amor.\n\n" +
+      "Y perdón si alguna vez alguna salida no fue lo que esperabas. Pero quiero que sepas algo: para mí, cada sábado contigo fue perfecto.\n\n" +
+      "Porque estabas tú.\n\n" +
+      "Y eso siempre fue suficiente para hacerme feliz.\n\n" +
+      "Te amo muchísimo mi amor ❤️",
     emoji: "🌅",
     color: "hsl(40, 85%, 65%)",
   },
@@ -321,7 +360,7 @@ export const boxes: BoxData[] = [
   },
   {
     id: 23,
-    photo: "/photos/photo-23.jpeg",
+    photo: "/photos/photo-23.jpg",
     photoType: "nosotros",
     spotifyTrackId: "TRACK_ID_AQUI",
     title: "¡Feliz cumpleaños, mi amor!",
