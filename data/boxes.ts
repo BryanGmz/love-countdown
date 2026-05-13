@@ -340,10 +340,36 @@ export const boxes: BoxData[] = [
     id: 21,
     photo: "/photos/photo-21.jpeg",
     photoType: "ella",
-    spotifyTrackId: "LO_PASADO_PASADO_JOSE_JOSE", // Lo Pasado Pasado - José José
-    title: "El cumpleaños y tu mundo",
+    spotifyTrackId: "3GSMdtJphymHEsR8K9jT5Q", // Locos - León Larregui
+    title: "Parte de tu mundo...",
     message:
-      "Ese día del cumpleaños, viéndote feliz, me di cuenta de lo afortunado que soy de que me hayas dejado entrar a tu mundo. No sé cómo estemos ahora. Pero sí sé que todo el amor que te he dado es genuino. Que quiero que seas tú la persona que me acompañe. Te amo mucho.",
+      "Creo que este fue uno de esos días donde entendí todavía más lo mucho que significas para mí.\n\n" +
+      "Desde el momento en que me dijiste que querías que te acompañara al cumpleaños, me sentí especial. Aunque al inicio me decías que fuera solo por ti, sinceramente eso ya era suficiente para mí. Porque como siempre te he dicho: cualquier plan contigo se vuelve especial.\n\n" +
+      "Pero luego me dijiste que sí podía acompañarte realmente… y no sabes la felicidad que me dio.\n\n" +
+      "Ese día conocí otra parte de ti.\n\n" +
+      "Recuerdo perfectamente ir por ti, llegar por primera vez a tu lugar de trabajo. Todo era nuevo para mí. Entrar ahí, lo acepto, un poco nervioso y apenado jajaja, conocer el lugar donde pasas tus mañanas, imaginarte conviviendo con tus niños, verte en tu ambiente… fue bonito.\n\n" +
+      "Y luego comenzó todo...\n\n" +
+      "Te veía activa desde el inicio, ayudando a adornar, organizando cosas, sirviendo comida, pendiente de todos. Y honestamente, eso también me enamora muchísimo de ti.\n\n" +
+      "Porque ahí note que eres una persona servicial, atenta y entregada. Y créeme… eso habla muchísimo de quién eres.\n\n" +
+      "Después vinieron los juegos y ahí conocí otra versión tuya.\n\n" +
+      "Te vi segura, llena de energía, captando la atención de todos, sonriendo, dirigiendo… y aunque tú me hayas dicho que a veces te pones nerviosa en esas situaciones, ese día yo solo veía a una mujer increíble brillando.\n\n" +
+      "Y mientras te veía, solo podía pensar en lo afortunado que soy de poder estar a tu lado.\n\n" +
+      "También recuerdo cómo pasamos ese día. Entre abrazos, risas, pláticas… quizá sí nos veíamos un poco acaramelados jajaja, pero sinceramente contigo me pierdo.\n\n" +
+      "Y luego el día todavía tenía más sorpresas.\n\n" +
+      "Recuerdo que ibas a encontrarte con tu mamá y Shirley para ir a la misa y luego ver disfraces. Aunque ya no llegamos a la misa, solo me queda esperar contigo a su salida. Y sí… yo insistiendo como siempre jajaja, preguntándote si podía acompañarlas luego para ver disfraces.\n\n" +
+      "La verdad no esperaba que aceptaran.\n\n" +
+      "Pero cuando me dijiste que sí podía quedarme con ustedes, me sentí especial.\n\n" +
+      "Convivir contigo y con tu familia fue algo nuevo para mí. Y aunque estaba nervioso, también estaba muy feliz.\n\n" +
+      "Gracias por dejarme entrar poco a poco a tu mundo.\n\n" +
+      "Porque créeme… eso me demuestra muchísimo tu amor.\n\n" +
+      "Y quiero que sepas algo: yo también he querido poco a poco abrirte las puertas de mi vida, que conozcas a mi familia, a mis amigos, a mi mundo. Porque sí… yo también te imagino conmigo en todo.\n\n" +
+      "Acompañándome, riendo conmigo, estando presente en cada etapa de mi vida.\n\n" +
+      "Porque contigo me siento bien.\n\n" +
+      "Me das paz, cariño y una sensación de hogar difícil de explicar.\n\n" +
+      "Y aunque sé que no todos los días serán perfectos, quiero que sepas que siempre voy a intentar darte lo mejor de mí.\n\n" +
+      "Porque te elijo.\n\n" +
+      "Y porque mi amor por ti no ha dejado de crecer desde el día en que llegaste a mi vida.\n\n" +
+      "Te amo muchísimo mi amor ❤️",
     emoji: "🌠",
     color: "hsl(270, 60%, 70%)",
   },
