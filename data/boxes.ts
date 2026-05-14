@@ -377,10 +377,40 @@ export const boxes: BoxData[] = [
     id: 22,
     photo: "/photos/photo-22.jpeg",
     photoType: "nosotros",
-    spotifyTrackId: "IDGAF_RELSB", // IDGAF - Rels B
+    spotifyTrackId: "3DDtJh2PeHXUQ90uSZOoyg", // Pideme la luna - Leo Dan
     title: "Nuestro primer San Valentín",
     message:
-      "Nuestro primer San Valentín juntos. Lo recuerdo y siento todo al mismo tiempo. Me arrepiento de ese día, de lo que pasó, de no haber cuidado lo que tenía en mis manos. Pero también sé que este año contigo ha sido el mejor de mi vida. Las rutinas, los hábitos, los detalles, las llamadas. Todo. No quiero que dudes el amor que te tengo. Es real. Siempre lo ha sido.",
+      "Nuestro primer San Valentín juntos… y sinceramente, es un recuerdo que llevo guardado con muchísimo cariño.\n\n" +
+      "A veces pienso en todo lo que vivimos ese día y siento muchas cosas al mismo tiempo.\n\n" +
+      "Porque sí… hubo cosas que quizá pude hacer mejor, momentos donde no supe expresarme o demostrarte todo como realmente quería.\n\n" +
+      "Pero incluso con todo eso, ese día sigue siendo uno de los recuerdos más especiales que tengo contigo.\n\n" +
+      "Porque para mí era mi primer San Valentín al lado de alguien que realmente amo.\n\n" +
+      "Y quizá muchas de las cosas que hemos vivido para ti no son nuevas… pero para mí sí lo han sido. Y..., eso hace que cada detalle contigo tenga todavía más valor.\n\n" +
+      "Por eso espero que cada gesto, cada salida, cada abrazo, cada regalo, cada recuerdo y cada muestra de cariño que te he dado… la guardes con el mismo amor con el que yo guardo todo lo nuestro.\n\n" +
+      "Recuerdo ir por ti, salir juntos, almorzar (hacer nuestra pizza), estar contigo en ese ambiente tan bonito y romántico… y sinceramente, yo solo estaba perdido en ti.\n\n" +
+      "Y aunque quizá a veces me cuesta demostrar algunas cosas o encontrar la forma correcta de hacerlo, quiero que sepas algo:\n\n" +
+      "todo lo hago con muchísimo amor hacia ti.\n\n" +
+      "También recuerdo cuando me diste tu regalo.\n\n" +
+      "Aunque ya tenía la ilusión de recibir algo tuyo, cuando lo vi me sentí increíblemente especial. Porque te había contado que nunca había recibido ese tipo de detalles de alguien… y luego llegaste tú.\n\n" +
+      "Y créeme, cada cosa que viene de ti la guardo como algo muy valioso.\n\n" +
+      "Pero sobre todo… la carta... sinceramente fue una de las cosas más bonitas que alguien ha hecho por mí.\n\n" +
+      "Porque sé que escribir no siempre es fácil para ti, me lo has dicho. Y aun así, te sentaste a escribir lo que sentías por mí.\n\n" +
+      "Leer tus pensamientos, saber que tomaste tu tiempo para poner en palabras tus sentimientos y dejar una parte de ti en una hoja… eso me hizo sentir amado de una manera muy difícil de explicar.\n\n" +
+      "Y sí… lo atesoro muchísimo.\n\n" +
+      "Ese día también entendí algo:\n\n" +
+      "ya no estaba celebrando una fecha cualquiera.\n\n" +
+      "Ahora tenía a alguien especial con quien compartir esos momentos.\n\n" +
+      "Y eso me hacía profundamente feliz.\n\n" +
+      "Gracias por ese recuerdo.\n\n" +
+      "Gracias por tu paciencia, por entenderme incluso cuando no sé expresarme bien, por escucharme, por acompañarme y por seguir aquí incluso con mis defectos.\n\n" +
+      "Y perdón si a veces fallo, si tengo días difíciles, mal carácter o comentarios fuera de lugar.\n\n" +
+      "Pero quiero que sepas que sí estoy intentando crecer, mejorar y encontrar mi mejor versión.\n\n" +
+      "Porque te amo.\n\n" +
+      "Y porque eres la persona con la que quiero estar.\n\n" +
+      "Quiero hacerte sentir amada, especial y feliz, así como tú me haces sentir a mí todos los días.\n\n" +
+      "Nuestro primer San Valentín siempre va a vivir dentro de mí.\n\n" +
+      "Y tú también.\n\n" +
+      "Te amo muchísimo mi amor ❤️",
     emoji: "🎁",
     color: "hsl(350, 75%, 66%)",
   },
