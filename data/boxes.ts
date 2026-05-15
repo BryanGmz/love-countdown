@@ -417,18 +417,47 @@ export const boxes: BoxData[] = [
   {
     id: 23,
     photo: "/photos/photo-23.jpg",
-    photoType: "nosotros",
-    spotifyTrackId: "TRACK_ID_AQUI",
+    photoType: "ella",
+    spotifyTrackId: "7tmq8wPHKYL2sKUpLpkXwP",
     title: "¡Feliz cumpleaños, mi amor!",
-    message: `Hoy cumples años y yo siento que el privilegio es mío.
-
-Gracias por existir exactamente como eres. Por tu risa, tu fuerza, tu ternura, tu honestidad. Por dejarme quererte y por quererme de vuelta.
-
-Este año que viene lo quiero llenar de momentos contigo. De aventuras, de tardes tranquilas, de risas hasta que duela, de todo lo que seamos juntos.
-
-🎁 Tu regalo te espera: [ESCRIBE AQUÍ EL REGALO O EL PLAN DEL DÍA]
-
-Feliz cumpleaños. Te quiero más de lo que las palabras alcanzan.`,
+    message:
+      "Hola, mi amor ❤️\n\n" +
+      "Voy a ser sincero aún no se cómo empezar esta parte jajaja. Y creo que decirlo así, tampoco fue la mejor idea (nuevamente) jajaja. Pero supongo que eso también soy yo contigo: alguien que no siempre encuentra las palabras perfectas, pero que intenta hablarte desde lo más profundo de su corazón.\n\n" +
+      "Esta parte terminó convirtiéndose en una carta. Una carta para ti. Para la mujer que amo.\n\n" +
+      "Y antes de cualquier otra cosa, quiero decirte algo que nunca me voy a cansar de repetir:\n\n" +
+      "Te amo muchísimo.\n\n" +
+      "Ya es hoy. Ya llegamos al día 23. Ya tienes 23 años, mi amor.\n\n" +
+      "No tienes idea de la felicidad tan grande que siento al poder acompañarte en esta etapa de tu vida. Ya pasó más de un año desde que te conocí, y honestamente no sé en qué momento vivimos tanto juntos. Son demasiados recuerdos, demasiados momentos que guardo con todo mi corazón.\n\n" +
+      "Pensar que te conocí cuando tenías 21… acompañarte en tus 22… y ahora estar aquí, celebrando tus 23. Eso ya es algo muy especial para mí. Pero más especial aún es saber que casi nueve meses de todo ese tiempo los he vivido siendo tu novio, amándote de esta manera tan grande y tan real.\n\n" +
+      "Y sí… también quiero pedirte perdón.\n\n" +
+      "Perdón por mis errores, por mis malos momentos, por los comentarios fuera de lugar. Perdón si alguna vez te he cansado, o si hubo momentos en que no supe hacerte sentir tan amada como mereces. Perdón porque a veces ni yo mismo sé cómo actuar o cómo expresar todo lo que siento por ti.\n\n" +
+      "Y perdón también por ese miedo que a veces cargo… el miedo de perderte. El miedo de que algún día ya no estés. Porque desde que llegaste a mi vida, encontré a alguien demasiado especial. Encontré a una mujer que me ama, que me cuida, que me comprende, y que me hace sentir querido de una manera que nunca antes había sentido.\n\n" +
+      "Pero quiero que sepas algo, y quiero que lo escuches bien:\n\n" +
+      "Todo lo que hago, incluso cuando me equivoco, nace del amor tan inmenso que te tengo. Siempre intento darte lo mejor de mí, aunque todavía esté aprendiendo. Intento que te sientas amada, querida, importante y especial, porque eso eres para mí: la mujer que amo profundamente, y con quien quiero caminar esta vida.\n\n" +
+      "Perdón si esta parte se puso seria jajaja. Hoy es tu día, y no quiero hacerte llorar.\n\n" +
+      "Bueno… tal vez sí. Pero solo de felicidad ❤️\n\n" +
+      "Cuando estés leyendo esto, espero que todo lo que planeé haya salido como imaginaba. Quiero devolverte, aunque sea un poquito, de todo lo bonito que tú me das todos los días.\n\n" +
+      "Ya son 23 años, mi amor.\n\n" +
+      "Y aunque a veces parezca poco, también representa muchísimo. Experiencias, aprendizajes, miedos superados y logros que te han convertido en la mujer increíble que eres hoy. Y créeme… lo estás haciendo muy bien. Sé que el crecer da miedo. Sé que una parte tuya quisiera quedarse para siempre en los 22, como me lo has dicho jajaja. Pero crecer también significa seguir viviendo cosas bonitas, seguir descubriendo versiones nuevas de ti misma, seguir construyendo la vida que sueñas.\n\n" +
+      "No tengas miedo, ¿sí?\n\n" +
+      "Porque si me lo permites, yo quiero acompañarte en cada etapa. Cuando cumplas tus metas, cuando tengas dudas, cuando estés feliz, cuando tengas miedo, o cuando solo necesites un abrazo. Y sí… para mí siempre vas a ser mi niña, mi bebé, mi consentida. Porque este amor que siento por ti no disminuye: cada día, crece más.\n\n" +
+      "Y pensar que este ya es el segundo cumpleaños que celebramos juntos…\n\n" +
+      "Todavía recuerdo el primero jajaja. Fuimos a Tacos Tabasco, llegué tarde, perdón otra vez por eso, y también perdón por no haberte dado ese abrazo que tanto quería darte. Muchas veces me ha faltado seguridad en mí mismo, lo sé.\n\n" +
+      "Pero este año pienso recuperar todo eso. Este año sí hay abrazos, y muchos más ❤️\n\n" +
+      "Gracias por elegirme. Gracias por quedarte. Gracias por ser tan linda conmigo, por tu paciencia, por tu cariño, por escucharme y por hacerme sentir amado de una manera tan bonita.\n\n" +
+      "Y perdón si alguna vez no te di exactamente el amor que esperabas recibir. Pero créeme que intento demostrártelo todos los días, incluso en las cosas pequeñas. Incluso en esto.\n\n" +
+      "También quiero confesarte algo.\n\n" +
+      "Estos últimos días han sido difíciles para mí, creo que lo has notado. Perdón si a veces lo convertí en drama o si llegué a hacerte sentir mal, no era mi intención. Simplemente me está afectando más de lo que esperaba. Pero en medio de todo eso, tú te has convertido en mi refugio. Y quizá todavía me cuesta abrirme del todo, lo sé, no es fácil para mí. Pero contigo estoy aprendiendo a hacerlo poco a poco, porque contigo me siento seguro.\n\n" +
+      "Y eso también es amor.\n\n" +
+      "Sé que esta no terminó siendo la típica carta de cumpleaños jajaja. Pero entre todo lo que quería darte hoy, también quería darte esta parte de mí: mis sentimientos, mis pensamientos, todo eso que a veces me cuesta tanto decir en voz alta.\n\n" +
+      "Y para ir cerrando…\n\n" +
+      "Te amo muchísimo, mi amor. Mi amor por ti es inmenso. Gracias por dejarme vivir esta historia contigo. Gracias por estos meses, por estos recuerdos, por hacerme sentir tantas cosas bonitas.\n\n" +
+      "Espero de corazón que me permitas seguir acompañándote por muchísimo tiempo más. Porque yo sí quiero que seas tú… para toda la vida.\n\n" +
+      "Y sí, seguramente mientras lees esto yo también estoy llorando jajaja. Pero contigo aprendí que mostrar mi vulnerabilidad no está mal. Nunca había llorado así frente a alguien, y contigo no me da vergüenza hacerlo.\n\n" +
+      "Porque contigo puedo ser yo.\n\n" +
+      "Y eso también te lo agradezco.\n\n" +
+      "Felices 23 años, mi amor.\n\n" +
+      "Te amo muchísimo ❤️",
     emoji: "🎂",
     color: "hsl(45, 95%, 62%)",
   },
